@@ -1,4 +1,1 @@
-Android
-=======
-
-turkce yazım  
+uygulama
